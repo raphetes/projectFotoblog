@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto feito afim de aprimorar habilidades com animação e display grid no css.
 
-- [Visite meu projeto online](https://raphetes.github.io/Fotoblog)
+- [Visite meu projeto online](https://raphetes.github.io/projectFotoblog)
 
 
 ---
